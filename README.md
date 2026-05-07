@@ -1,8 +1,11 @@
 Team Members & Roles :
 
 Ömer Faruk Albayrak → Project Manager
+
 Akış Çağlayan Deniz → Game Designer
+
 Muhammed Eyüp Yıldırım → Artist
+
 Berkay Çiçek → Developer
 
 Game Name :
