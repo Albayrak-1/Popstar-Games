@@ -1,4 +1,4 @@
-Team Members & Roles :
+Team Members & Roles:
 
 Ömer Faruk Albayrak → Project Manager
 
@@ -8,47 +8,28 @@ Muhammed Eyüp Yıldırım → Artist
 
 Berkay Çiçek → Developer
 
-Game Name :
+Game Name:
+Escape from the Maze (Menüdeki ismi baz aldık)
 
-Lost Between Walls
+Genre:
+3D Psychological Horror / Exploration
 
-Genre :
+Elevator Pitch (Full Game Vision):
+Lost Between Walls / Escape from the Maze is a single-player backrooms-inspired horror game where the player wakes up inside endless yellow hallways with no memory of how they arrived there. While the final game will focus on psychological tension and environmental exploration, this prototype demonstrates the core interactive loop.
 
-3D Psychological Horror / Survival / Exploration
+Core Loop (Prototype Version):
+Explore the maze → Locate and collect 3 hidden keys → Avoid contact with the enemy entity → Escape to win.
 
-Elevator Pitch :
+Controls:
 
-Lost Between Walls is a single-player backrooms-inspired horror game where the player wakes up inside endless yellow hallways with no memory of how they arrived there. The player must explore abandoned areas, solve environmental puzzles, manage limited resources, and avoid terrifying entities while searching for a way out. The game focuses on psychological tension and environmental storytelling rather than combat.
+W, A, S, D → Movement
 
-Core Loop :
-
-Explore areas → Search for clues and resources → Avoid entities → Solve puzzles → Unlock new sections → Escape to the next level
-
-Controls :
-
-WASD → Movement
-Mouse → Camera control
-Shift → Sprint
-Ctrl / C → Crouch
-E → Interact / Pick up items
-F → Flashlight
-Tab → Inventory
-Esc → Pause Menu
+Mouse → Camera control & UI Interaction
 
 Win / Loss Conditions:
 
-Win Condition
-Find the exit of the level and escape the Backrooms.
-Complete puzzle objectives to unlock escape paths.
+Win Condition: Find and collect all 3 keys within the maze to trigger the Win Scene.
 
-Loss Condition
-Get caught by entities.
-Lose sanity in dangerous areas.
-Run out of critical resources such as flashlight battery.
+Loss Condition: Suffer physical collision (get touched) by the enemy entity, which immediately triggers the Lose Scene.
 
-Art Style:
-Realistic / Semi-realistic 3D
-Dark atmospheric lighting
-VHS / Analog horror visual effects
-Repetitive yellow office environments
-Minimal UI for immersive gameplay
+Art Style & Current State: Greybox / Prototype Phase: The current build utilizes untextured 3D models and primitive shapes without atmospheric lighting. The primary focus of this milestone is to establish solid core mechanics, player movement, collision detection, and a flawless UI game loop (Menus, Win/Lose conditions) before moving on to the final visual aesthetic.
