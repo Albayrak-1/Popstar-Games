@@ -9,7 +9,7 @@ Muhammed Eyüp Yıldırım → Artist
 Berkay Çiçek → Developer
 
 Game Name:
-Escape from the Maze (Menüdeki ismi baz aldık)
+Escape from the Maze
 
 Genre:
 3D Psychological Horror / Exploration
